@@ -6,9 +6,7 @@ namespace CSharpSolutions
     {
          static void Main(string[] args)
         {
-
-            Console.WriteLine("Hello Dev 2");
-
+            Console.WriteLine("Hello World Dev 2");
         }
     }
 }
